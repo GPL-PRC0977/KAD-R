@@ -1,0 +1,32 @@
+﻿<html>
+<head runat="server">
+   <title></title>
+</head>
+<body>
+   <font face="Calibri">
+
+   No confirmation reply is necessary for this message.<br>
+<hr />
+   <br />
+   Hi All,<br>
+   <br />
+See attached sales report for the month of [@MONTH@]. <br />
+<br />
+   Kindly submit original SI's at Primer head office. <br />
+   <br />
+Countering:
+
+<br />
+1. You can submit your SI's at our HO. Our Guard will be the one to receive the invoice. Kindly secure your receiving copy.
+<br />
+2. Thru courier, Address at 2282 Primer Star Center c/o Jessa Jimenez / Rozhen Ramos 53031234 local 324. (Do not include duplicate copy of your SI's)
+<br />
+3. Please attach a sales report in the Sales Invoice.
+<br />
+4. Countering is every Thusday 1-4 pm at our Head Office.
+<br />
+Thank You.
+<br />
+   </font>
+</body>
+</html>
